@@ -2,3 +2,4 @@
 test.ipynb
 *.jsonl
 *.html
+.DS_Store
